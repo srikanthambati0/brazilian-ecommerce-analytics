@@ -25,6 +25,9 @@ desktop.ini
 # Streamlit temporary files
 .streamlit/
 
+# Large processed CSV (parquet is used for high performance)
+data/processed/*.csv
+
 # Intermediate build outputs
 dist/
 build/
