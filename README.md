@@ -104,7 +104,7 @@ The platform includes an interactive multi-tab web application:
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/your-username/brazilian-ecommerce-analytics.git
+git clone https://github.com/srikanthambati0/brazilian-ecommerce-analytics.git
 cd brazilian-ecommerce-analytics
 ```
 
@@ -150,4 +150,5 @@ Open your browser and navigate to `http://localhost:8501`.
 
 ## 👤 Author
 * **Portfolio Project**: Brazilian E-Commerce Executive Intelligence Platform
-* **Contact**: [LinkedIn](https://linkedin.com) | [GitHub](https://github.com)
+* **GitHub Repository**: [srikanthambati0/brazilian-ecommerce-analytics](https://github.com/srikanthambati0/brazilian-ecommerce-analytics)
+* **GitHub Profile**: [@srikanthambati0](https://github.com/srikanthambati0)
